@@ -1,4 +1,4 @@
-# Hi, I'm Aditya
+# 👋 Hi, I'm Aditya
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jolly-thomas&label=Profile%20views&color=0e75b6&style=flat-square" alt="jolly-thomas" /> </p>
 
@@ -17,7 +17,7 @@ Machine Learning engineer passionate about building intelligent systems, full-st
 </p>
 
 
-## Blog posts
+## 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Newton Method Optimization in Logistic Regression](https://medium.com/@adityaryaka/newton-method-optimization-in-logistic-regression-bd490acdfac6?source=rss-b1debd1c627a------2)
